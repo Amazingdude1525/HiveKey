@@ -6,6 +6,14 @@ HiveKey is a modern, cross-platform mobile application developed using React Nat
 
 This project serves as a robust foundation for building mobile applications, leveraging the latest features of React 19 and React Native 0.84. It emphasizes clean code, performance, and a seamless developer experience.
 
+## Screenshots
+
+| Welcome Screen | Dashboard | Settings |
+| :---: | :---: | :---: |
+| ![Welcome Screen](https://via.placeholder.com/200x400?text=Welcome+Screen) | ![Dashboard](https://via.placeholder.com/200x400?text=Dashboard) | ![Settings](https://via.placeholder.com/200x400?text=Settings) |
+
+*Note: Replace the placeholder images above with actual screenshots of the application running on a device.*
+
 ## Key Features
 
 *   **Cross-Platform Compatibility:** Share a single codebase across Android and iOS.
